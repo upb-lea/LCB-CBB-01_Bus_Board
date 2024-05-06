@@ -1,4 +1,4 @@
-22882332664270967
+22882333238382279
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61822,14 +61822,14 @@ Conn_Molex_533980671
 Connector
 0
 8
-8
+6
 LEA_FootprintLibrary
 Conn_Sub-D_09551156612741
 09551156612741-2
 Connector
 0
 11
-11
+9
 LEA_FootprintLibrary
 DCDC_24V_20V_-5V
 
