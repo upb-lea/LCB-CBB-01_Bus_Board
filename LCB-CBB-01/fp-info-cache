@@ -1,4 +1,4 @@
-22882333238382279
+22885771770723498
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61635,6 +61635,13 @@ Connector
 1
 1
 LEA_FootprintLibrary
+090329001
+09.03290.01-2
+Switch
+0
+3
+3
+LEA_FootprintLibrary
 ADAPTER_Soic16
 
 
@@ -61824,11 +61831,18 @@ Connector
 8
 6
 LEA_FootprintLibrary
+Conn_Molex_533980871
+53398-0871
+Connector
+0
+10
+10
+LEA_FootprintLibrary
 Conn_Sub-D_09551156612741
 09551156612741-2
 Connector
 0
-11
+9
 9
 LEA_FootprintLibrary
 DCDC_24V_20V_-5V
@@ -62343,11 +62357,11 @@ Integrated Circuit
 8
 LEA_FootprintLibrary
 SOIC127P1030X265-16N
-SOIC__
-Undefined or Miscellaneous
+DW0016A
+Integrated Circuit
 0
-14
-14
+16
+16
 LEA_FootprintLibrary
 SOIC127P1032X265-16N
 W16MS+12
