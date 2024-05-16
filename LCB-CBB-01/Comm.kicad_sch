@@ -10607,7 +10607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3V3_HV\""
 			(at 33.02 77.47 0)
 			(effects
 				(font
@@ -10672,7 +10672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 110.49 31.75 0)
 			(effects
 				(font
@@ -10739,7 +10739,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor 0603"
 			(at 176.53 52.07 0)
 			(effects
 				(font
@@ -10853,7 +10853,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3V3_HV\""
 			(at 40.64 44.45 0)
 			(effects
 				(font
@@ -10918,7 +10918,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ISO774x-Q1 Automotive, High-Speed, Reinforced Quad-Channel Digital Isolators"
 			(at 83.82 173.99 0)
 			(effects
 				(font
@@ -11056,7 +11056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 127 93.98 0)
 			(effects
 				(font
@@ -11171,7 +11171,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 256.54 114.3 0)
 			(effects
 				(font
@@ -11413,7 +11413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 36.83 92.71 0)
 			(effects
 				(font
@@ -11527,7 +11527,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 110.49 48.26 0)
 			(effects
 				(font
@@ -11642,7 +11642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor 0603"
 			(at 208.28 52.07 0)
 			(effects
 				(font
@@ -11756,7 +11756,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
 			(at 219.71 102.87 0)
 			(effects
 				(font
@@ -11823,7 +11823,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 187.96 109.22 0)
 			(effects
 				(font
@@ -11936,7 +11936,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND_HV\" , ground"
 			(at 33.02 146.05 0)
 			(effects
 				(font
@@ -12000,7 +12000,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 146.05 45.72 0)
 			(effects
 				(font
@@ -12115,7 +12115,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor 0603"
 			(at 212.09 52.07 0)
 			(effects
 				(font
@@ -12228,7 +12228,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 148.59 45.72 0)
 			(effects
 				(font
@@ -12295,7 +12295,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 33.02 177.8 0)
 			(effects
 				(font
@@ -12408,7 +12408,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 237.49 119.38 0)
 			(effects
 				(font
@@ -12473,7 +12473,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 148.59 30.48 0)
 			(effects
 				(font
@@ -12540,7 +12540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 40.64 27.94 0)
 			(effects
 				(font
@@ -12654,7 +12654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3V3_HV\""
 			(at 33.02 119.38 0)
 			(effects
 				(font
@@ -12722,7 +12722,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "8 Pin Male, straight, 1.25mm pitch"
 			(at 158.75 93.98 0)
 			(effects
 				(font
@@ -12840,7 +12840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 123.19 93.98 0)
 			(effects
 				(font
@@ -12955,7 +12955,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor 0603"
 			(at 194.31 52.07 0)
 			(effects
 				(font
@@ -13068,7 +13068,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 152.4 146.05 0)
 			(effects
 				(font
@@ -13134,7 +13134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 36.83 177.8 0)
 			(effects
 				(font
@@ -13249,7 +13249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 247.65 114.3 0)
 			(effects
 				(font
@@ -13363,7 +13363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 127 135.89 0)
 			(effects
 				(font
@@ -13478,7 +13478,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Automotive, High Speed, Robust EMC Quad-Channel Digital Isolators"
 			(at 83.82 134.62 0)
 			(effects
 				(font
@@ -13620,7 +13620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor 0603"
 			(at 142.24 27.94 0)
 			(effects
 				(font
@@ -13734,7 +13734,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 36.83 134.62 0)
 			(effects
 				(font
@@ -13850,7 +13850,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "8 Pin Male, straight, 1.25mm pitch"
 			(at 158.75 134.62 0)
 			(effects
 				(font
@@ -13968,7 +13968,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Isolated CAN transceiver, Automotive, 70-V bus fault protection and flexible data rate"
 			(at 83.82 27.94 0)
 			(effects
 				(font
@@ -14084,7 +14084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 110.49 52.07 0)
 			(effects
 				(font
@@ -14151,7 +14151,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor 0603"
 			(at 142.24 43.18 0)
 			(effects
 				(font
@@ -14264,7 +14264,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND_HV\" , ground"
 			(at 40.64 52.07 0)
 			(effects
 				(font
@@ -14329,7 +14329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND_HV\" , ground"
 			(at 187.96 114.3 0)
 			(effects
 				(font
@@ -14396,7 +14396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Slide Switches SPDT, ON-ON, slide, Through Hole, 500 mA @ 24 V DC"
 			(at 152.4 68.58 0)
 			(effects
 				(font
@@ -14497,7 +14497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 127 104.14 0)
 			(effects
 				(font
@@ -14563,7 +14563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3V3_HV\""
 			(at 187.96 102.87 0)
 			(effects
 				(font
@@ -14629,7 +14629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
 			(at 110.49 24.13 0)
 			(effects
 				(font
@@ -14803,7 +14803,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Isolated CAN transceiver, Automotive, 70-V bus fault protection and flexible data rate"
 			(at 83.82 48.26 0)
 			(effects
 				(font
@@ -14919,7 +14919,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 152.4 105.41 0)
 			(effects
 				(font
@@ -14984,7 +14984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND_HV\" , ground"
 			(at 33.02 189.23 0)
 			(effects
 				(font
@@ -15051,7 +15051,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 40.64 48.26 0)
 			(effects
 				(font
@@ -15164,7 +15164,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
 			(at 256.54 104.14 0)
 			(effects
 				(font
@@ -15230,7 +15230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 219.71 109.22 0)
 			(effects
 				(font
@@ -15345,7 +15345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 33.02 134.62 0)
 			(effects
 				(font
@@ -15459,7 +15459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3V3_HV\""
 			(at 33.02 162.56 0)
 			(effects
 				(font
@@ -15523,7 +15523,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor 0603"
 			(at 275.59 107.95 0)
 			(effects
 				(font
@@ -15636,7 +15636,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 127 146.05 0)
 			(effects
 				(font
@@ -15701,7 +15701,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND_HV\" , ground"
 			(at 33.02 104.14 0)
 			(effects
 				(font
@@ -15768,7 +15768,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor 0603"
 			(at 180.34 52.07 0)
 			(effects
 				(font
@@ -15883,7 +15883,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Automotive, High Speed, Robust EMC Quad-Channel Digital Isolators"
 			(at 83.82 92.71 0)
 			(effects
 				(font
@@ -16024,7 +16024,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 110.49 27.94 0)
 			(effects
 				(font
@@ -16137,7 +16137,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 219.71 114.3 0)
 			(effects
 				(font
@@ -16202,7 +16202,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 127 189.23 0)
 			(effects
 				(font
@@ -16333,7 +16333,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 194.31 55.88 0)
 			(effects
 				(font
@@ -16398,7 +16398,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
 			(at 275.59 104.14 0)
 			(effects
 				(font
@@ -16463,7 +16463,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Isolated DC-DC Converter. 3.3Vin, 5Vout, 2W"
 			(at 204.47 110.49 0)
 			(effects
 				(font
@@ -16565,7 +16565,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 127 179.07 0)
 			(effects
 				(font
@@ -16680,7 +16680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 123.19 179.07 0)
 			(effects
 				(font
@@ -16794,7 +16794,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
 			(at 110.49 44.45 0)
 			(effects
 				(font
@@ -16860,7 +16860,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3V3_HV\""
 			(at 40.64 24.13 0)
 			(effects
 				(font
@@ -16926,7 +16926,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "LED 0603, Green, If 2mA, Vf 1.9V"
 			(at 275.59 113.03 0)
 			(effects
 				(font
@@ -17020,7 +17020,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 146.05 30.48 0)
 			(effects
 				(font
@@ -17133,7 +17133,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 275.59 115.57 0)
 			(effects
 				(font
@@ -17198,7 +17198,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
 			(at 160.02 66.04 0)
 			(effects
 				(font
@@ -17265,7 +17265,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 123.19 135.89 0)
 			(effects
 				(font
@@ -17380,7 +17380,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor 0603"
 			(at 142.24 48.26 0)
 			(effects
 				(font
@@ -17495,7 +17495,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Capacitor 0603"
 			(at 33.02 92.71 0)
 			(effects
 				(font
@@ -17610,7 +17610,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor 0603"
 			(at 184.15 52.07 0)
 			(effects
 				(font
@@ -17725,7 +17725,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor 0603"
 			(at 204.47 52.07 0)
 			(effects
 				(font
@@ -17840,7 +17840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor 0603"
 			(at 142.24 33.02 0)
 			(effects
 				(font
@@ -17953,7 +17953,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND_HV\" , ground"
 			(at 40.64 31.75 0)
 			(effects
 				(font

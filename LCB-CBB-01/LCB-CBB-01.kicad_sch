@@ -2822,6 +2822,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" "0"
+			(at 208.28 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "LCB-CBB-01"
 				(path "/78c6af17-d7e9-44b4-b50f-61aa50c3be02"
@@ -3068,6 +3077,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" "0"
+			(at 208.28 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "LCB-CBB-01"
 				(path "/78c6af17-d7e9-44b4-b50f-61aa50c3be02"
@@ -3124,6 +3142,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 208.28 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" "0"
 			(at 208.28 25.4 0)
 			(effects
 				(font
@@ -3196,6 +3223,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" "0"
+			(at 208.28 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "LCB-CBB-01"
 				(path "/78c6af17-d7e9-44b4-b50f-61aa50c3be02"
@@ -3252,6 +3288,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 208.28 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" "0"
 			(at 208.28 44.45 0)
 			(effects
 				(font

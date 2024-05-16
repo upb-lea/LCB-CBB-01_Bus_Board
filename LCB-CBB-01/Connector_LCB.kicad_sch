@@ -9672,7 +9672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3V3_HV\""
 			(at 74.93 162.56 0)
 			(effects
 				(font
@@ -9736,7 +9736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Board to Board & Mezzanine Connectors 0.50 mm Edge Rate Rugged High Speed Terminal"
 			(at 247.65 100.33 0)
 			(effects
 				(font
@@ -9783,6 +9783,15 @@
 		)
 		(property "manf#" "ERM5-075-05.0-L-DV-K-TR"
 			(at 288.29 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" "0"
+			(at 247.65 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10293,7 +10302,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND_HV\" , ground"
 			(at 74.93 175.26 0)
 			(effects
 				(font
@@ -10357,7 +10366,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Board to Board & Mezzanine Connectors 0.50 mm Edge Rate Rugged High Speed Terminal"
 			(at 180.34 101.6 0)
 			(effects
 				(font
@@ -10404,6 +10413,15 @@
 		)
 		(property "manf#" "ERM5-075-05.0-L-DV-K-TR"
 			(at 220.98 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" "0"
+			(at 180.34 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10979,7 +10997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Board to Board & Mezzanine Connectors 0.50 mm Edge Rate Rugged High Speed Terminal"
 			(at 44.45 101.6 0)
 			(effects
 				(font
@@ -11026,6 +11044,15 @@
 		)
 		(property "manf#" "ERM5-075-05.0-L-DV-K-TR"
 			(at 85.09 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" "0"
+			(at 44.45 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11535,7 +11562,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Board to Board & Mezzanine Connectors 0.50 mm Edge Rate Rugged High Speed Terminal"
 			(at 109.22 100.33 0)
 			(effects
 				(font
@@ -11582,6 +11609,15 @@
 		)
 		(property "manf#" "ERM5-075-05.0-L-DV-K-TR"
 			(at 149.86 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" "0"
+			(at 109.22 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
