@@ -86,26 +86,6 @@
 					(hide yes)
 				)
 			)
-			(symbol "ACCESSORY_BusBoard_SPI_Cable_0_0"
-				(text "Cable"
-					(at -3.175 -1.27 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-						(justify left)
-					)
-				)
-				(text "HW-MON"
-					(at -4.445 1.27 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-						(justify left)
-					)
-				)
-			)
 			(symbol "ACCESSORY_BusBoard_SPI_Cable_0_1"
 				(rectangle
 					(start -5.08 2.54)
@@ -116,6 +96,26 @@
 					)
 					(fill
 						(type background)
+					)
+				)
+			)
+			(symbol "ACCESSORY_BusBoard_SPI_Cable_1_0"
+				(text "BusBoard"
+					(at -4.445 1.27 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+						(justify left)
+					)
+				)
+				(text "SPI-Cable"
+					(at -5.08 -1.27 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+						(justify left)
 					)
 				)
 			)
