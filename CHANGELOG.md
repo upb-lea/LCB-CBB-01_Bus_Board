@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased] - xxxx-xx-xx
 
-## [1.0.0] - 2023-04-09
+## [1.0.0] - 2023-05-18
 ### Added
  * LCB-CBB-01 Control Bus Board initial release
 
